@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/web,linux,macos,windows,sublimetext
-# Edit at https://www.gitignore.io/?templates=web,linux,macos,windows,sublimetext
+# Created by https://www.gitignore.io/api/linux,macos,windows,sublimetext
+# Edit at https://www.gitignore.io/?templates=linux,macos,windows,sublimetext
 
 ### Linux ###
 *~
@@ -77,21 +77,6 @@ bh_unicode_properties.cache
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
 
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.wasm
-*.wat
-*.xhtml
-
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -118,4 +103,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/web,linux,macos,windows,sublimetext
+# End of https://www.gitignore.io/api/linux,macos,windows,sublimetext
